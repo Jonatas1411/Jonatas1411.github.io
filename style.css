@@ -69,9 +69,10 @@
   font-family: 'Inter', sans-serif;
 }
 .card{
-  width: 24%;
-  height: 40%;
+  width: 25%;
+  height: 380px;
   margin-bottom: 16px;
+  
 }
 
 .card a {
