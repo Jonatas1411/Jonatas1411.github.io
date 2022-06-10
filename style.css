@@ -13,7 +13,7 @@
     .menu-column {
       display: flex;
       align-items: center;
-      width: 50%;
+      width: 500px;
       justify-content: flex-start;
       margin-left: 12%;
       font-family: 'Inter', sans-serif;
@@ -56,7 +56,7 @@
       flex-wrap: wrap;
       margin-left: 10%;
       margin-top: 20px;
-      max-width: 1200px;
+      
 }
 
 .card img{
@@ -65,13 +65,14 @@
     
 }
 .card p{
-  width: 75%;
+  width: 260px;
   font-family: 'Inter', sans-serif;
 }
 .card{
-  width: 25%;
-  height: 380px;
+  width: 24%;
   margin-bottom: 16px;
+  max-width: 1200px;
+  
   
 }
 
